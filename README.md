@@ -1,6 +1,6 @@
 # 🌍 Eco-Events Platform: Community-Driven Environmental Change
 
-The Eco-Action Platform is a comprehensive web application designed to connect environmentally conscious users with local events, sustainable products, and corporate sponsors. Our goal is to create a secure, transparent, and highly collaborative environment that translates community ideas into real-world action.
+The Eco-Events Platform is a comprehensive web application designed to connect environmentally conscious users with local events, sustainable products, and corporate sponsors. Our goal is to create a secure, transparent, and highly collaborative environment that translates community ideas into real-world action.
 
 ## ✨ Key Features
 
