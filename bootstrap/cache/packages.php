@@ -1,11 +1,4 @@
 <?php return array (
-  'inertiajs/inertia-laravel' => 
-  array (
-    'providers' => 
-    array (
-      0 => 'Inertia\\ServiceProvider',
-    ),
-  ),
   'laravel/breeze' => 
   array (
     'providers' => 
@@ -97,13 +90,6 @@
     'providers' => 
     array (
       0 => 'Termwind\\Laravel\\TermwindServiceProvider',
-    ),
-  ),
-  'phiki/phiki' => 
-  array (
-    'providers' => 
-    array (
-      0 => 'Phiki\\Adapters\\Laravel\\PhikiServiceProvider',
     ),
   ),
 );
