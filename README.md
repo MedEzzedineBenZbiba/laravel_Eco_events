@@ -32,7 +32,7 @@ This project was built with a strong focus on security, stability, and professio
 
 This project was a collaborative effort by the following members:
 
-* [Med Ezzedine BenZbiba] - Post Management & n8n Automation
+* Med Ezzedine BenZbiba - Post Management & n8n Automation
 * Youssef Ben Said - Product Management & Stripe Integration
 * Adem Selmani - Event Management
 * Zeineb Maatalli - Sponsor & Feedback Management
